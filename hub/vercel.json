@@ -1,12 +1,12 @@
 {
   "rewrites": [
     {
-      "source": "/blog/:match*",
-      "destination": "https://blog.fitvitals.dev/:match*"
+      "source": "/2020",
+      "destination": "https://vercel-test-2020.vercel.app/2020"
     },
     {
-      "source": "/:match*",
-      "destination": "https://home.fitvitals.dev/:match*"
+      "source": "/2021",
+      "destination": "https://vercel-test-2021.vercel.app/2021"
     }
   ]
 }

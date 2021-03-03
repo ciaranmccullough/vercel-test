@@ -1,4 +1,4 @@
-const TWENTYTWENTY_URL = 'https://with-zones-blog.vercel.app';
+const TWENTYTWENTY_URL = 'https://vercel-test-2020.vercel.app/';
 const TWENTYTWENTYONE_URL = 'https://with-zones-blog.vercel.app';
 
 module.exports = {
@@ -9,7 +9,7 @@ module.exports = {
         destination: `${TWENTYTWENTY_URL}/2020`,
       },
       {
-        source: '/2020',
+        source: '/2021',
         destination: `${TWENTYTWENTYONE_URL}/2021`,
       },
     ];

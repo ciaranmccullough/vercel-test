@@ -1,6 +1,12 @@
 {
-  "routes": [
-    { "src": "/2020", "dest": "/2020" },
-    { "src": "/2021", "dest": "/2021" }
+  "rewrites": [
+    {
+      "source": "/blog/:match*",
+      "destination": "https://blog.fitvitals.dev/:match*"
+    },
+    {
+      "source": "/:match*",
+      "destination": "https://home.fitvitals.dev/:match*"
+    }
   ]
 }

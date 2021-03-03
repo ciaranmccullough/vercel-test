@@ -1,5 +1,5 @@
 const TWENTYTWENTY_URL = 'https://vercel-test-2020.vercel.app';
-const TWENTYTWENTYONE_URL = 'https://with-zones-blog.vercel.app';
+const TWENTYTWENTYONE_URL = 'https://vercel-test-2021.vercel.app';
 
 module.exports = {
   rewrites() {

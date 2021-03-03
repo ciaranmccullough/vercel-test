@@ -6,11 +6,11 @@ module.exports = {
     return [
       {
         source: '/2020',
-        destination: `${TWENTYTWENTY_URL}/2020`,
+        destination: `${TWENTYTWENTY_URL}`,
       },
       {
         source: '/2021',
-        destination: `${TWENTYTWENTYONE_URL}/2021`,
+        destination: `${TWENTYTWENTYONE_URL}`,
       },
     ];
   },

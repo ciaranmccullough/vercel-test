@@ -2,11 +2,11 @@
   "rewrites": [
     {
       "source": "/2020",
-      "destination": "https://vercel-test-2020.vercel.app/2020"
+      "destination": "https://vercel-test-2020.vercel.app"
     },
     {
       "source": "/2021",
-      "destination": "https://vercel-test-2021.vercel.app/2021"
+      "destination": "https://vercel-test-2021.vercel.app"
     }
   ]
 }
